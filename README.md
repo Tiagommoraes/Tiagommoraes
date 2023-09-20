@@ -1,4 +1,6 @@
-### Hi there 👋
+<div>
+<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header.png?raw=true"/>
+</div>
 
 Sou dev...
 
