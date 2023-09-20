@@ -2,18 +2,20 @@
 <img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header.png?raw=true"/>
 </div>
 
-Sou dev...
+
 
 **Tiagommoraes/Tiagommoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👨‍🎓 **Estudante** de Sistemas de Informação na [Newton Paiva](https://newtonpaiva.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--
+##
+#### Você me encontra em:
+<a href="https://www.linkedin.com/in/tiago-martins-moraes">
+   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+
+
+  
+
