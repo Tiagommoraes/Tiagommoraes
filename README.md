@@ -3,7 +3,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/tiagomartinsmoraes/tiagomartinsmoraes/blob/main/img/header2.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/tiagomartinsmoraes/tiagomartinsmoraes/blob/main/img/headertech.jpg?raw=true"/>
 </div>
 
 -----
