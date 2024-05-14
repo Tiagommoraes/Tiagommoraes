@@ -16,8 +16,6 @@
 <tr>
 <td><a href="https://github.com/Tiagommoraes" target="_blank"><img src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
-</td>
 <td><a href="https://www.instagram.com/Tiagommoraes/" target="_blank"><img src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/Tiagommoraes/" target="_blank"><img src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/linkedin2.gif?raw=true" width="50px" height="50px"/></a>
