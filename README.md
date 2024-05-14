@@ -22,10 +22,6 @@
 </td>
  <td><a href="https://wa.me/5531983265453" target="_blank"><img src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://calendly.com/tago/" target="_blank"><img src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
 </tr>
 <tr>
  <td align="center" colspan="11"></td>
