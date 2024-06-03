@@ -32,7 +32,11 @@
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>Tiago Martins Moraes</code>, tenho 38 anos, moro em BH e sou estudante de Sistema de Informação na Newton Paiva. <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> 
 </div>
-
+-------
+<div>
+<div>
+<img align="right" alt="GIF" src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
+</div>
 
 
 
