@@ -42,7 +42,7 @@
 
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.gif?raw=true"/> LinkedIn Recommendations</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/linkedin2.gif?raw=true"/> LinkedIn Recommendations</summary>
 <div>
 <table>
 <tr>
@@ -50,32 +50,32 @@
 </tr> 
 <tr>
 <td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R1.png?raw=true" alt="R1"/>
+<img align="center" src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/R1.png?raw=true" alt="R1"/>
 </td>
 </tr>
 <tr>
 <td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R2.png?raw=true" alt="R2"/>
+<img align="center" src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/R2.png?raw=true" alt="R2"/>
 </td>
 </tr>
 <tr>
 <td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R3.png?raw=true" alt="R3"/>
+<img align="center" src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/R3.png?raw=true" alt="R3"/>
 </td>
 </tr>
 <tr>
 <td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R4.png?raw=true" alt="R4"/>
+<img align="center" src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/R4.png?raw=true" alt="R4"/>
 </td>
 </tr>
 <tr>
 <td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R5.png?raw=true" alt="R5"/>
+<img align="center" src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/R5.png?raw=true" alt="R5"/>
 </td>
 </tr>
 <tr>
 <td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R6.png?raw=true" alt="R6"/>
+<img align="center" src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/R6.png?raw=true" alt="R6"/>
 </td>
 </tr>
 <tr>
@@ -86,16 +86,7 @@
 </details>
 </div>
 
-<div align="center">
-
-```text
- █████╗ ██████╗  █████╗ ███╗   ███╗██╗   ██╗███╗   ██╗██╗
-██╔══██╗██╔══██╗██╔══██╗████╗ ████║██║   ██║████╗  ██║██║
-███████║██████╔╝███████║██╔████╔██║██║   ██║██╔██╗ ██║██║
-██╔══██║██╔══██╗██╔══██║██║╚██╔╝██║██║   ██║██║╚██╗██║██║
-██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝
-```                                        
+<div align="center">                                       
 
 </div>
 <div>
@@ -105,10 +96,10 @@
 </tr> 
 <tr>
 <td>
-<a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter2.png?raw=true" alt="github-footer2"/></a>
+<a href="mailto:tmartins.moraes86@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/githubfooter2.png?raw=true" alt="github-footer2"/></a>
 </td>
 <td>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
+<a href="https://github.com/Tiagommoraes" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
 </td>
 </tr>
 <tr>
@@ -126,10 +117,10 @@
 </tr> 
 <tr>
 <td>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
+<a href="https://github.com/Tiagommoraes" target="_blank"><img src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td>
-| Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2024 Aramuni</a><br />
+| Créditos: <a href="https://github.com/Tiagommoraes" target="_blank">© 2024 Moraes</a><br />
 | Última atualização: 13/03/2024
 </td>
 </tr>
@@ -145,7 +136,7 @@
 
 <!---
 <div>
-<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/footer-gray.gif?raw=true"/>
+<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/footer-gray.gif?raw=true"/>
 </div>
 -->
 
