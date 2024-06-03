@@ -33,13 +33,19 @@
 <i><b>Olá</b> :wave:, sou o <code>Tiago Martins Moraes</code>, tenho 38 anos, moro em BH e sou estudante de Sistema de Informação na Newton Paiva. <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> 
 </div>
 -------
+ <img height="20" alt="GIF" src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tiagommoraes&theme=github_dark"/>
+<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tiagommoraes&theme=github_dark"/> -->
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tiagommoraes&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tiagommoraes&theme=github_dark"/>
+</div>
+------
 <div>
 <div>
 <img align="right" alt="GIF" src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
 </div>
-
-
-
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/linkedin2.gif?raw=true"/> LinkedIn Recommendations</summary>
