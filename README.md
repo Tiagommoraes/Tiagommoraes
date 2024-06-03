@@ -96,9 +96,6 @@
 </tr> 
 <tr>
 <td>
-<a href="mailto:tmartins.moraes86@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/githubfooter2.png?raw=true" alt="github-footer2"/></a>
-</td>
-<td>
 <a href="https://github.com/Tiagommoraes" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
 </td>
 </tr>
