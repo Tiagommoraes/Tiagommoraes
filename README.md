@@ -44,10 +44,6 @@
 ------
 <div>
 <div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=7xbiqpet3A9le4IUSSFAkg" alt="Data Card for Spotify">
-</details>
 </div>
  -------
 <div>
