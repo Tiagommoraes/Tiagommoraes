@@ -109,25 +109,6 @@
 </tr>
 <tr>
  <td align="center" colspan="2"></td>
-</tr> 
-</table>
-</div>
-<div>
-<table align="center">
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
-<td>
-
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-</div>
-
 -----
 <div>
 
