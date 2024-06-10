@@ -41,11 +41,9 @@
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tiagommoraes&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tiagommoraes&theme=github_dark"/>
 </div>
-------
 <div>
 <div>
 </div>
- -------
 <div>
 <div>
 <img align="right" alt="GIF" src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
@@ -115,7 +113,7 @@
 </table>
 </div>
 
------
+
 
 <div>
 <table align="center">
@@ -125,10 +123,6 @@
 <tr>
 <td>
 <a href="https://github.com/Tiagommoraes" target="_blank"><img src="https://github.com/Tiagommoraes/Tiagommoraes/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td>
-| Créditos: <a href="https://github.com/Tiagommoraes" target="_blank">© 2024 Moraes</a><br />
-| Última atualização: 13/03/2024
 </td>
 </tr>
 <tr>
